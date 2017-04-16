@@ -244,18 +244,18 @@
     <!-- debug strings -->
     <string name="debug_title">Impostazioni di debug</string>
     <string name="debug_leak_canary">LeakCanary</string>
-    <string name="app_restart">Prego, riavvia la app per applicare le modifiche.</string>
+    <string name="app_restart">Riavvia l'applicazione per applicare le modifiche.</string>
 
     <!-- Dialogs -->
-    <string name="dialog_open_new_tab">Apri in nuova scheda</string>
-    <string name="dialog_open_background_tab">Apri in secondo piano</string>
-    <string name="dialog_open_incognito_tab">Apri in scheda in incognito</string>
-    <string name="dialog_remove_bookmark">Elimina segnalibro</string>
-    <string name="dialog_edit_bookmark">Modifica segnalibro</string>
+    <string name="dialog_open_new_tab">Nuova scheda</string>
+    <string name="dialog_open_background_tab">Apri in un'altra scheda</string>
+    <string name="dialog_open_incognito_tab">Nuova scheda di navigazione in Incognito</string>
+    <string name="dialog_remove_bookmark">Elimina il segnalibro</string>
+    <string name="dialog_edit_bookmark">Modifica il segnalibro</string>
     <string name="dialog_remove_from_history">Elimina dalla cronologia</string>
-    <string name="dialog_download_image">Scarica immagine</string>
+    <string name="dialog_download_image">Salva immagine</string>
     <string name="dialog_copy_link">Copia link</string>
     <string name="dialog_rename_folder">Rinomina cartella</string>
     <string name="dialog_remove_folder">Elimina cartella</string>
-    <string name="dialog_title_close_browser">Chiudi browser</string>
+    <string name="dialog_title_close_browser">Esci</string>
 </resources>
